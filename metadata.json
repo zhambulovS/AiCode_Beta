@@ -1,0 +1,5 @@
+{
+  "name": "AiCode",
+  "description": "Adaptive LeetCode clone with AI compiler, bilingual support (KK/EN), and learning paths.",
+  "requestFramePermissions": []
+}
